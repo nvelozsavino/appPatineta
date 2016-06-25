@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Patineta</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="settings">Settings</string>
+    <string name="dashboard_menu">Dashboard</string>
+    <string name="tune_your_board_menu">Tune your board</string>
+    <string name="stats_menu">Stats</string>
+    <string name="feeds_menu">Feeds</string>
+    <string name="profile_menu">Profile</string>
+    <string name="sing_out_menu">Sing out</string>
+</resources>
